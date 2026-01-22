@@ -30,13 +30,13 @@ PHOT_AUTOAPERS   0.0,0.0
 SATUR_LEVEL      100000.0
 SATUR_KEY        SATURATE
 
-MAG_ZEROPOINT    30.0
+MAG_ZEROPOINT    22.5
 MAG_GAMMA        4.0
 GAIN             0.0
 GAIN_KEY         GAIN
 PIXEL_SCALE      0.262
 
-SEEING_FWHM      0.5
+SEEING_FWHM      1.5
 STARNNW_NAME     /home/raditraian1107/PSF_development/FITS_images/se_in_out/default.nnw
 PSF_NAME         /home/raditraian1107/PSF_development/FITS_images/se_in_out/default.psf
 
