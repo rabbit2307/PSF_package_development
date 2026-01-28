@@ -44,7 +44,7 @@ CHECKIMAGE_TYPE  SEGMENTATION,BACKGROUND,BACKGROUND_RMS
 CHECKIMAGE_NAME  /home/raditraian1107/PSF_development/FITS_images/se_in_out//segmap_background_photutils.fits,/home/raditraian1107/PSF_development/FITS_images/se_in_out//bkg_background_photutils.fits,/home/raditraian1107/PSF_development/FITS_images/se_in_out//bkg_rms_background_photutils.fits
 
 BACK_TYPE        AUTO
-BACK_SIZE        256
+BACK_SIZE        128
 BACK_FILTERSIZE  3
 
 MEMORY_OBJSTACK  50000
